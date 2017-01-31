@@ -1,0 +1,5 @@
+<script src='https://cdn.rawgit.com/anonimizegifthub/javascript/bcc62fe0/safelink-3-multi.js' type='text/javascript'/>
+<script type='text/javascript'>
+protected_links = &#39;pgrionline.com,blogger.com,opsmultitasker.blogspot.com,linkedin.com,facebook.com,twitter.com,feedburner.com&#39;;
+auto_safelink();
+</script>
